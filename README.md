@@ -21,3 +21,5 @@ UTILIZAÇÃO DE:
 * METODOS
 * ATRIBUTOS
 * MODIFICADORES DE ACESSO
+
+Atualizações do projeto serão realizadas conforme andamento do curso.
