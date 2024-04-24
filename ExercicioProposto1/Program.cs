@@ -7,19 +7,22 @@ namespace ExercicioProposto1
     {
         static void Main(string[] args)
         {
-            Product product = new Product();
+            string name;
+            double price;
+            int quantity;
 
             int stock, removeStock;
 
             Console.Write("NOME DO PRODUTO: ");
-            product.Name = Console.ReadLine();
+            name = Console.ReadLine();
 
             Console.Write("PREÇO DO PRODUTO: ");
-            product.Price = double.Parse(Console.ReadLine());
+            price = double.Parse(Console.ReadLine());
 
             Console.Write("QUANTIDADE DO PRODUTO: ");
-            product.Quantity = int.Parse(Console.ReadLine());
+            quantity = int.Parse(Console.ReadLine());
 
+            Product product = new Product(name, price, quantity);
 
             Console.WriteLine($"\n\n");
             Console.WriteLine($"PRODUTO: {product.Name}");
