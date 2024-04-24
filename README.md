@@ -21,5 +21,7 @@ UTILIZAÇÃO DE:
 * METODOS
 * ATRIBUTOS
 * MODIFICADORES DE ACESSO
+* CONSTRUTOR
+* SOBRECARGA
 
 Atualizações do projeto serão realizadas conforme andamento do curso.
