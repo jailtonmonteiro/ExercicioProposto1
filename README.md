@@ -23,5 +23,6 @@ UTILIZAÇÃO DE:
 * MODIFICADORES DE ACESSO
 * CONSTRUTOR
 * SOBRECARGA
+* ENCAPSULAMENTO
 
 Atualizações do projeto serão realizadas conforme andamento do curso.
